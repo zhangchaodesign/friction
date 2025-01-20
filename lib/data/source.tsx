@@ -1,0 +1,64 @@
+import { FeedbackSourceItem } from "@/lib/type";
+
+export const feedbackSource: FeedbackSourceItem[] = [
+  {
+    id: 1,
+    content:
+      "The thesis of this paper can be improved, it should be presented as a statement in the introduction. The text is good but there could have been more information or explanation for each point made. Ideas were good but should provide a better explanation. The analysis needs improvements, each paragraph had parts broken up into them regarding each point rather than having each paragraph be a singular idea, solution, etc. The writer's position is excellent, it is made clear in the essay. There are some examples for each point but could be separated into paragraphs along with each analysis made. Alternative positions are mentioned but not explored, we need more information! Excellent clarity, the introduction needs to be stronger. It feels lazy. The body is a little disorganized, keep all points together instead of spread out in the paper. The conclusion does circle back to the introduction but it also brings up a solution; needs more explanation such as what can make them pay attention to develop or pay attention to new technologies? Overall this is a paper that would \"pass\" but it's not excellent and it could be better with more organization and ideas.",
+    file: "Provider 1"
+  },
+  {
+    id: 2,
+    content:
+      'The essay presents a nuanced perspective on the role of technology in modern society, but suffers from inconsistencies in word usage, insufficient evidence, and minor orthography errors. Phrases like "improved beyond recognition" could be toned down for academic sobriety, and "intricate problems" might benefit from examples to ground the discussion in concrete terms. The essay lacks robust evidence to support its claims, relying on broad assertions (e.g., the benefits of hi-tech devices and medical advances) without citing specific studies, technologies, or statistical data. This undermines the argument\'s credibility, as it doesn\'t provide the reader with a clear basis for its conclusions. The essay could benefit from closer attention to punctuation, particularly in the use of commas for clarity in longer sentences. Moreover, transitioning phrases like "to begin with" and "however" could be employed more strategically to enhance coherence and flow. The conclusion could be strengthened by addressing the counterargument more directly, thus providing a more balanced view. Overall, refining word choice, bolstering claims with concrete evidence, and minor adjustments in punctuation would significantly enhance the essay\'s persuasiveness and readability.',
+    file: "Provider 2"
+  },
+  {
+    id: 3,
+    content:
+      'Overall, the essay is muddled. The thesis is ambiguously worded in the first paragraph and isn\'t clearly stated until near the close of the essay. The writer should consider moving the statement, "(technological advances) clearly outweigh its disadvantages, ... it can contribute greatly to the development of the world" to the opening paragraph. The intent of the author should be stated up front and supported throughout the essay. The common adage is, "Tell them what you\'re going to say. Say what you\'re going to say. Then tell them again what you just said." \n The second and third paragraphs do more to seemingly contradict each other rather than building a cohesive argument. The first paragraph builds a good case for the benefits of technology, but the evidence is a bit anecdotal. If the writer has time, it would benefit them to give numbers and citations to further prove their points. \n The criticisms of the third paragraph would either be better to omit, or to use in order to further the author\'s intent. Some of the conditions described by use of technology are more indicative of how work and our current lifestyles are "in-flux." There are technological and sociological solutions to these issues that the author could mention, but omits. Consider re-writing this paragraph with your thesis in mind. \n Ultimately, the essay sounds as though the author is trying to be impartial while clearly having an opinion. Essays as such are not cohesive to readers. It would be better for the author to focus on their thesis, and think about how each statement or fact ties into what they are trying to convey. Your goal is to give support to your thesis. If there is data that contradicts it, you can mention this as an area that is being actively engaged on multiple fronts (mention which fronts). ',
+    file: "Provider 3"
+  },
+  {
+    id: 4,
+    content:
+      "The writer has provided a clear statement of their opinion regarding whether or not scientists should continue to value technology in all aspects of our society. The writer also provides clear premises and support throughout the body of their argument, allowing the reader to understand and comprehend the reasoning for their opinion. Additionally, the writer considers both obvious and unobvious counter-arguments followed by thoughtful responses. Although the writer successfully dissects the argument into relevant parts for the reader to easily digest, more effective and substantial examples could have been provided. Overall, the writer makes their argument easy to follow and understand their reasoning for the given point of view despite quickly ending their essay with an unsatisfying tying of loose ends.",
+    file: "Provider 4"
+  },
+  {
+    id: 5,
+    content:
+      "The essay discusses the impact of technology on our lives, asserting that while technology has numerous benefits, it also brings about some serious problems. The introduction effectively presents the author's stance but could enhance clarity by providing a more explicit statement of the thesis. The body paragraphs delve into the positive aspects of technology, including improved access to information, efficient work and study, and medical advances. However, the essay acknowledges the drawbacks, such as the potential threat of powerful weapons and the negative health effects of excessive device use. One notable strength is the use of examples to illustrate points, such as the ability of technology to predict natural disasters and the adverse health effects of device abuse. The conclusion reiterates the importance of technology but suggests a need for continued development and attention to potential drawbacks. While the essay demonstrates a balanced perspective, some transitions between points could be smoother for better cohesion. Additionally, the organization could be improved by explicitly restating the thesis in the conclusion. Overall, the essay effectively presents arguments, but refinements in thesis clarity, transitions, and organization would enhance its overall coherence and impact.",
+    file: "Provider 5"
+  },
+  {
+    id: 6,
+    content:
+      'Overall, the essay feels and reads fragmented and scattered.  There is no real thesis to guide and develop the author\'s argument, although upon reading in full I was able to determine what I thought the author intended the thesis to be.  The essay is also lacking in support for the arguments set forth, and the counter-argument presented is brief and not well developed.  The author needs to take a more determined and solid stance on the topic.  He/she leads the paper by stating they "partly disagree" with the point of view that less emphasis needs to be placed on technological solutions.  The author needs to pick a side and develop the essay around this assertion. The organization of the essay was adequate, but the clarity was lacking.  There were strange transitions from sentence to sentence, paragraph to paragraph.  Simple changes in leading words could solve this quite easily.  Also, some of the work choices were awkward, such as "borne in mind" and "serious problems springing from modern technology."  Again, this is a simple fix for the author.  The conclusion was easy to identify and wrapped up the author\'s point of view.  Overall, the essay was adequate.  It would be beneficial for the author to review the rubric and use it to guide them in more properly developing the essay.',
+    file: "Provider 6"
+  },
+  {
+    id: 7,
+    content:
+      'I like the opening paragraph in that it introduces the topic and shows how one can agree on either sides. There is a counter argument in the middle of the paragraph which shows that the writer understands the other stance one may take. The writer then is able to explain what they are trying to argue for. I do think the last sentence is doing tell more than show and I would have liked it to not be as generic with telling directly their arguments. When they say "and the reasons are given below" it feels calculated and doesn\'t flow well.  I feel like the body paragraphs are on the right track, but are weak in their argument. I would have liked to see more supporting documentation and sources to support their analysis. The closing paragraph to me is not strong. It to me goes against the opening paragraph and argument and to me makes the argument set in the beginning not as strong.',
+    file: "Provider 7"
+  },
+  {
+    id: 8,
+    content:
+      'Maybe I am misinterpreting the conclusion of your essay. You finish this essay by saying scientists should focus on new technology rather than technological solutions. Though, through the examples you have given and by your initial thesis statement, you are providing examples of technological solutions, are you not? These "hi tech devices" that help us study and work more efficiently and the medical advances we have made are, in my mind as an uninformed reader, the exact definition of technological solutions. I enjoy how you\'ve clearly laid out the pros and cons of technology, though I feel that you may need to define your terms a little more thoroughly. How am I supposed to know the difference between "technological solutions" versus "new technology?" What makes them so different? What makes one better than the other? And what makes your final statement relate to where our values should be placed as a society?\nI really would\'ve loved to see you delve into the other values, like politics and education. And I would\'ve loved even more if you outlined those values already existing relationships with technology and how it could improve (or worsen!).\nThis essay just reads as a simple pros/cons list over a very nuanced topic and I feel like there is much more for you to explore on this topic.',
+    file: "Provider 8"
+  },
+  {
+    id: 9,
+    content:
+      "The argument is weak and difficult to follow. The writer doesn't take a firm stance and their arguments are not well fleshed out. The opening and closing paragraphs don't establish or conclude strong arguments. The arguments themselves are not well presented. They need to be more detailed and be presented more confidently. It felt like the writer didn't come into the essay with a strong opinion and was allowing themselves to be convinced by counter arguments as they wrote. They also didn't have persuasive arguments against the counter arguments that they mentioned. Only a couple of arguments are even given to support the thesis and they are flimsy at best. The essay needs to be longer and the ideas better supported. The writing could also be stronger. The sentence structure is often poor and the ideas do not come across as clear and coherent.",
+    file: "Provider 9"
+  },
+  {
+    id: 10,
+    content:
+      'This essay presents a balanced view on the impact of technology on society, arguing both for its indispensability and its potential drawbacks. However, there are areas where it could be strengthened through more precise language, clearer citations, and adherence to academic writing conventions. For instance, the essay would benefit from specific examples or citations to support claims about technology\'s positive impacts and the serious problems it causes, such as references to particular studies or statistics on technology\'s role in improving productivity or health outcomes, as well as the negative consequences of technology addiction. The use of vague phrases like "many aspects of our lives" and "many dangerous diseases" could be replaced with more precise terminology. Additionally, the argument might be clearer if it directly addressed how economic, political, and educational values could be integrated with technological advancements rather than presenting them as separate or opposing forces. Spelling and grammar are generally correct, but the essay could improve its academic tone by avoiding colloquial expressions such as "beyond recognition". Finally, the essay could enhance its persuasiveness by incorporating theoretical frameworks or models that explain the relationship between technology and societal development.',
+    file: "Provider 10"
+  }
+];
