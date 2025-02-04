@@ -24,10 +24,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 **Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection**<br />
 Chao Zhang, Kexin Ju, Peter Bidoshi, Yu-Chun Grace Yen, Jeffrey M. Rzeszotarski
 
+
 **Please cite this paper if you used the code or prompts in this repository.**
 
+> Chao Zhang, Kexin Ju, Peter Bidoshi, Yu-Chun Grace Yen, and Jeffrey M. Rzeszotarski. 2025. Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection. In CHI Conference on Human Factors in Computing Systems (CHI '25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 28 pages. https://doi.org/10.1145/3706598.3714316
+
+```bibtex
 TBD
+```
 
 ## Acknowledgements
 
-TBD
+We sincerely thank our participants for sharing their thoughts and feedback on our system, as well as the reviewers for their valuable insights and suggestions.
