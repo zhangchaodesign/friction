@@ -19,7 +19,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## CHI 2024 Paper
+## CHI 2025 Paper
 
 **Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection**<br />
 Chao Zhang, Kexin Ju, Peter Bidoshi, Yu-Chun Grace Yen, Jeffrey M. Rzeszotarski
